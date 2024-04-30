@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/css/main.7cc9d054.css",
+    "main.js": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/js/main.c0103262.js",
+    "static/js/453.bc9f0c02.chunk.js": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/js/453.bc9f0c02.chunk.js",
+    "index.html": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/index.html",
+    "main.7cc9d054.css.map": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/css/main.7cc9d054.css.map",
+    "main.c0103262.js.map": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/js/main.c0103262.js.map",
+    "453.bc9f0c02.chunk.js.map": "/my-app/flufpoiuyscxfy-sporkekoikdowlolpdeirtjurjhjrijkdikiekmriemirk/static/js/453.bc9f0c02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cc9d054.css",
+    "static/js/main.c0103262.js"
+  ]
+}
